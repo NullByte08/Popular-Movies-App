@@ -3,7 +3,7 @@
 - Get your API from https://www.themoviedb.org/
 - Intialize api_key variable with your API in MainActivity and DetailsActivity
 
-##Main Highlights
+## Main Highlights
 
 - Displays popular movies using the above mentioned API in a GridView.
 - You can sort the movies by *Top Rated* and *Most Popular*.
